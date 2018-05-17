@@ -10,5 +10,4 @@ PostgreSQL
 Oracle
 DB2
 
-Data Model
-The Chinook data model represents a digital media store, including tables for artists, albums, media tracks, invoices and customers.
+Data Model- The Chinook data model represents a digital media store, including tables for artists, albums, media tracks, invoices and customers.
